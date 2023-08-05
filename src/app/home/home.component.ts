@@ -127,6 +127,16 @@ export class HomeComponent {
       availableUnits: 6,
       wifi: true,
       laundry: true
+    },
+    {
+      id: 10,
+      name: 'Cute Cat',
+      city: 'Portland',
+      state: 'OR',
+      photo: `https://images.pexels.com/photos/1317844/pexels-photo-1317844.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1`,
+      availableUnits: 6,
+      wifi: true,
+      laundry: true
     }
   ];
 }
